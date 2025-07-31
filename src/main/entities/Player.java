@@ -18,7 +18,7 @@ public class Player extends Entity {
 
     int defaultSpeed = 2;
 
-    int hasKey = 0;
+    public int hasKey = 0;
 
 
     public Player(GamePanel gamePanel, KeyHandler keyHandler) {
